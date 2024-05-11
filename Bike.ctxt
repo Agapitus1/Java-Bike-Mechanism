@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bike
+comment1.params=theColour\ theFrontWheel\ theBackWheel
+comment1.target=Bike(java.lang.String,\ Wheel,\ Wheel)
+comment2.params=
+comment2.target=java.lang.String\ getColour()
+comment3.params=theColour
+comment3.target=void\ setColour(java.lang.String)
+comment4.params=front
+comment4.target=void\ setFrontWheel(Wheel)
+comment5.params=
+comment5.target=void\ displayColour()
+comment6.params=distance
+comment6.target=void\ moveForward(double)
+comment7.params=distance
+comment7.target=void\ moveBackward(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
